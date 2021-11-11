@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=MCU Member=R?
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Added Member To Class: ClassName=MCU Member=Component R6 4.7kR
+Added Member To Class: ClassName=MCU Member=Component R7 4.7kR
+Added Member To Class: ClassName=Power Member=Component R9 180R

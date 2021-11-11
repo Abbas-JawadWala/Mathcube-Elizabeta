@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+D:\Freelance Projects\Mathcube-Elizabeta\Project Outputs for Mathcube_PCB\Pick Place for PCB  ver 1 10.14.21.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11-11-21
+Time:       12:28
+Revision:   ba976cce1e30b6520f5505ee18d83dc01e28fbaf
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"Latchmul","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,5122mm","22,4028mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"P1","67997-410HLF","TopLayer","HDR2X5","77,5383mm","60,3242mm","270","Conn Unshrouded Header HDR 10 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk"
+"IC1","NUC029TAN","TopLayer","QFN40P400X400X80-33N","42,6688mm","57,4482mm","0","Integrated Circuit"
+"S2","","TopLayer","1101M2S3ABE2","12,1369mm","73,0039mm","225","Switch"
+"Y1","24MHz","TopLayer","OSC_XRCGB24M000F0L00R0","41,6999mm","51,2136mm","90","MURATA - XRCGB24M000F0L00R0 - QUARZRESONATOR, 24MHZ, 150PPM"
+"U1","","TopLayer","SON40P120X120X60-7N","69,5452mm","59,9242mm","0","LDO Regulator Pos 3.3V 0.5A 6-Pin TDFN EP T/R"
+"S1","TL3315NF100Q","TopLayer","SW_TL3315NF100Q","26,7437mm","52,4506mm","90","E-SWITCH - TL3315NF100Q - SWITCH, TACTILE, SPST, 50mA, 15VDC"
+"R2","1kR","TopLayer","RESC1005X35N","45,1040mm","63,4682mm","90","RES 1K OHM 1% 1/16W 0402"
+"R1","100R","TopLayer","RESC1005X35N","50,1650mm","65,1510mm","270","RES 100 OHM 1% 1/16W 0402"
+"R8","","TopLayer","RESC1005X40","66,6763mm","65,1688mm","270","RES 10K OHM 5% 1/16W 0402"
+"R10","180R","TopLayer","RESC1005X40","74,5236mm","13,4874mm","315","SMD Chip Resistor, 0402 [1005 Metric], 180 ohm, CRGCQ Series, 50 V, Thick Film, 63 mW"
+"R9","180R","TopLayer","RESC1005X40","72,5932mm","11,7856mm","315","SMD Chip Resistor, 0402 [1005 Metric], 180 ohm, CRGCQ Series, 50 V, Thick Film, 63 mW"
+"R7","4.7kR","TopLayer","RESC1005X40","18,1437mm","19,2836mm","315","Res Thick Film 0402 4.7K Ohm 5% 1/16W 100ppm/C Molded SMD SMD Paper T/R"
+"R6","4.7kR","TopLayer","RESC1005X40","15,6609mm","21,6204mm","135","Res Thick Film 0402 4.7K Ohm 5% 1/16W 100ppm/C Molded SMD SMD Paper T/R"
+"R5","10kR","TopLayer","RESC1005X40","81,1882mm","65,7080mm","90","RES 10K OHM 5% 1/16W 0402"
+"R4","10kR","TopLayer","RESC1005X40","81,0943mm","62,3080mm","270","RES 10K OHM 5% 1/16W 0402"
+"R3","10kR","TopLayer","RESC1005X40","28,2557mm","58,4942mm","180","RES 10K OHM 5% 1/16W 0402"
+"Q1","PMBT3904,215","TopLayer","SOT95P230X110-3N","47,7392mm","64,2148mm","90","Transistor BJT NPN"
+"LS1","CMT-0904-83T","TopLayer","XDCR_CMT-0904-83T","60,9346mm","79,0956mm","0",""
+"LCD1","SSQ-104-02-T-S-RA","BottomLayer","SAMTEC_SSQ-104-02-T-S-RA","17,1995mm","17,6780mm","315","Conn Socket Strip SKT 4 POS 2.54mm Solder RA Thru-Hole Bulk"
+"Latchsub","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,3692mm","49,0728mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latchdiv","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,3692mm","69,0460mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latchadd","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,5122mm","11,9888mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch9","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","32,4729mm","63,6430mm","90","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch8","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","27,3587mm","63,6270mm","90","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch7","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,5122mm","32,7406mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch6","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","22,2875mm","63,6618mm","90","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch5","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,5216mm","27,6860mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch4","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,3692mm","53,8734mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch3","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","35,2392mm","34,1630mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch2","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,3692mm","58,9026mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch1","B2B-PH-K-S(LF)(SN)","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,5216mm","17,2720mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"Latch0","","TopLayer","JST_B2B-PH-K-S(LF)(SN)","57,3692mm","63,9572mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"
+"J2","","TopLayer","SOT95P280X145-5N","69,5452mm","64,0588mm","90","MCP73831 Series Single-Cell Li-Ion/Li-Polymer Battery Charge Controller SOT-23-5"
+"J1","","TopLayer","GCT_USB4125-GF-A_REVA2","74,5571mm","74,6937mm","135","USB Connector with 1.90mm shell stake length"
+"FB2","850mR","TopLayer","0603","36,1950mm","57,6482mm","0","FERRITE BEAD 1 KOHM 0603 1 LN"
+"FB1","850mR","TopLayer","0603","42,8386mm","63,4648mm","90","FERRITE BEAD 1 KOHM 0603 1 LN"
+"D1","","TopLayer","LED_QLS6B-FKW-CNSNSF043","76,2546mm","8,7846mm","45","CREE - QLS6B-FKW-CNSNSF043 - FULL RANK, TAPE&REEL 07AH1280"
+"C8","","TopLayer","CAPC1608X90N","72,2511mm","63,3501mm","270","Cap Ceramic 2.2uF 6.3V X7R 10% SMD 0603 125C Paper T/R"
+"C7","","TopLayer","CAPC1608X90N","67,0560mm","59,3809mm","90","Cap Ceramic 2.2uF 6.3V X7R 10% SMD 0603 125C Paper T/R"
+"C6","20pF","TopLayer","CAPC1005X55N","43,6460mm","51,2208mm","270","CAP CER 20PF 50V C0G/NP0 0402"
+"C5","20pF","TopLayer","CAPC1005X55N","39,8106mm","51,2698mm","90","CAP CER 20PF 50V C0G/NP0 0402"
+"C4","1uF","TopLayer","CAPC1005X55N","45,0303mm","51,2136mm","90","Cap Ceramic 1uF 10V X5R 10% Pad SMD 0402 85°C T/R"
+"C3","10uF","TopLayer","CAPC2012X140N","27,5207mm","56,4962mm","0","MURATA - GRM21BR61E106MA73L - SMD Multilayer Ceramic Capacitor, 10 µF, 25 V, 0805 [2012 Metric], ± 20%, X5R, GRM Series"
+"C2","100nF","TopLayer","CAPC1005X55N","43,8356mm","63,3444mm","270","Prices include import duty and tax. CAP, 0.1UF, 25V, MLCC, 0402; SVHC: No SVHC (15-Jan-2019)"
+"C1","100nF","TopLayer","CAPC1005X55N","41,8511mm","63,3432mm","90","Prices include import duty and tax. CAP, 0.1UF, 25V, MLCC, 0402; SVHC: No SVHC (15-Jan-2019)"
+"BATT","","TopLayer","JST_B2B-PH-K-S(LF)(SN)","69,8152mm","52,4256mm","0","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural"

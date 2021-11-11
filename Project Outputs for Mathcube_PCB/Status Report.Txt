@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Mathcube_PCB.PrjPcb]
+   Generated File[PCB main.GTO]
+   Generated File[PCB main.GTP]
+   Generated File[PCB main.GTS]
+   Generated File[PCB main.GTL]
+   Generated File[PCB main.GBL]
+   Generated File[PCB main.GBS]
+   Generated File[PCB main.GBP]
+   Generated File[PCB main.GBO]
+   Generated File[PCB main.GM1]
+   Generated File[PCB main.GM13]
+   Generated File[PCB main.GM15]
+   Generated File[PCB main.GKO]
+   Generated File[PCB main.GPT]
+   Generated File[PCB main.GPB]
+   Generated File[PCB main.GD1]
+   Generated File[PCB main.GG1]
+   Generated File[PCB main.RUL]
+   Generated File[PCB main.EXTREP]
+   Generated File[PCB main.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 12:29:51 On 11-11-2021

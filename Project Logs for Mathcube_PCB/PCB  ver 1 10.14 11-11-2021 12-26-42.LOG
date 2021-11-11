@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Power Member=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Added Member To Class: ClassName=MCU Member=Component Latchmul B2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=Power Member=Component R? 180R
